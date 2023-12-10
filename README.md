@@ -3,9 +3,9 @@ Classifier for psychological Disorders based on a fixed MongoDB and GPT API
 
 # To Do's:
 1. Windows installation guide
-2. Test installation on fresh system (VM)
 
-# Instructions
+
+# Instructions for DB
 
 For Mac OS:
 1. Install xcode via terminal with : xcode-select --install
